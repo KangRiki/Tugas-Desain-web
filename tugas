@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Page 1</title>
+	<link rel="stylesheet" href="stylee.css" /> 
+</head>
+<body>
+<div id="header"> 
+	<ul id="menu-utama"> 
+		<li><a href=Beranda.html>Beranda</a></li>
+		<li><a href=riwayat.html>Riwayat Hidup</a></li>
+		<li><a href=Cita.html>Cita-Cita</a></li>
+	</ul> 
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Page 2</title>
+</head>
+<body>
+<div id="header"> 
+		<ul id="menu-utama"> 
+			<li><a href=beranda.html>Beranda</a></li>
+			<li><a href=riwayat.html>Riwayat Hidup</a></li>
+			<li><a href=Cita.html>Cita-Cita</a></li>
+		</ul> 
+	</div>
+</div>
+<h1>Riwayat Hidup dan Pendidikan</h1>
+<h2>Riwayat Hidup</h2>
+<p>Perkenalkan Saya Ahmad Riki Susanto lahir di Banyuwangi pada tanggal 02 juli 2002,tepatnya di desa padang baru pesucen kalipuro banyuwangi</p>
+<h1>Riwayat Pendidikan</h1>
+<p>berikut adalah riwayat pendidikan yang pernah saya jalani
+	<ol>
+		<li>Mi Darul Falah 1 Pesucen</li>
+		<li>Mts Negeri 1 Banyuwangi</li>
+		<li>SMK 1 Ibrahimy Sukorejo Situbondo</li>
+	</ol>
+	dan saat ini kami lanjut study di Kampus STIKOM PGRI Banuwangi
+</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Page 3</title>
+</head>
+<body>
+<div id="header"> 
+		<ul id="menu-utama"> 
+			<li><a href=header.html>Beranda</a></li>
+			<li><a href=riwayat.html>Riwayat Hidup</a></li>
+			<li><a href=cita cita.html>Cita-Cita</a></li>
+		</ul> 
+	</div>
+</div>
+<h1>Visi dan Misi Kehidupan</h1>
+<h2>Visi</h2>
+<p>menjadi manusia yang berilmu dan bermanfaat bagi sesama</p>
+<h2>Misi</h2>
+<ol>
+		<li>Mi Darul Falah 1 Pesucen</li>
+		<li>Mts Negeri 1 Banyuwangi</li>
+		<li>SMK 1 Ibrahimy Sukorejo Situbondo</li>
+</ol>
+<h1>Cita Cita</h1>
+<ul>
+		<li>Jadi Freelancer</li>
+</ul>
+</body>
+</html>
