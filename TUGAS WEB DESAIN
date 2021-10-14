@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="id">
+ <head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Contoh Tabel</title>
+ </head>
+ <body>
+ <table border="1" cellspacing="0" cellpadding="2">
+    <caption>Daftar Impian Masa Depan</caption>
+    <colgroup></colgroup>
+    <colgroup></colgroup>
+    <colgroup span="3"></colgroup>
+    <colgroup span="5"></colgroup>
+    <colgroup></colgroup>
+    <thead>
+ <tr>
+ <th rowspan="2">No.</th>
+ <th rowspan="5">Sumber dana penghasilan</th>
+ <th colspan="2">Target Waktu</th>
+ <th colspan="2">anggaran dana Rp</th>
+ </tr>
+ <tr>
+ <th>Tahun</th>
+ <th>Bulan</th>
+ <th>Pemasukan</th>
+ <th>Pengeluaran</th>
+ </tr>
+    </thead>
+    <td colspan="6"><b>A.Sumber Dana</b></td>
+<tbody>  
+ <tr>
+ <td>1</td>
+ <td>Tabungan Gaji</td>
+ <td>2021</td>
+ <td>Januari</td>
+ <td>20.000.000</td>
+ <td>-</td>
+ </tr>
+ <tr>
+ <td>2</td>
+ <td>Proyek Nguli</td>
+ <td>2022</td>
+ <td>Maret</td>
+ <td>15.000.000</td>
+ <td>-</td>
+ </tr>
+ <tr>
+ <td>3</td>
+ <td>Proyek Ngepet</td>
+ <td>2023</td>
+ <td>Agustus</td>
+ <td>6.000.000</td>
+ <td>-</td>
+ </tr>
+ <td colspan="6"><b>B.Impian</b></td>
+ <tr>
+ <td>5</td>
+ <td>Menikah</td>
+ <td>2024</td>
+ <td>Agustus</td>
+ <td>-</td>
+ <td>10.000.000</td>
+ </tr>
+ <tr>
+    <td>5</td>
+    <td>Beli rumah</td>
+    <td>2025</td>
+    <td>September</td>
+    <td>-</td>
+    <td>12.000.000</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Beli Pesawat</td>
+        <td>2026</td>
+        <td>November</td>
+        <td>-</td>
+        <td>120.000.000</td>
+        </tr>
+ </tbody>
+
+ <tfoot>
+ <tr>
+    <td colspan="4"><b>Total Anggaran</b></td>
+    <td><b>50.000.000</b></td>
+    <td><b>248.000.000</b></td>
+    </tr>
+ <tr>
+ <td colspan="4"><b>Kekurangan Anggaran</b></td>
+ <th colspan="2">45.000.000</th>
+ </tr>
+ </tfoot>
+ </table>
+ </body>
+</html>
